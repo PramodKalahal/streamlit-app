@@ -3,6 +3,6 @@ pandas
 numpy
 matplotlib
 altair
+plotly
 scikit-learn
 nltk
-wordcloud
